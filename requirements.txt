@@ -1,5 +1,5 @@
-cmake
-wheel
+# cmake
+# wheel
 numpy>1.2
 hydra-core==1.1.1
 hydra-colorlog
@@ -8,11 +8,13 @@ opencv-python
 omegaconf
 plotly
 ftfy
-pytorch-lightning==1.8.6
+# pytorch-lightning==1.8.6
+pytorch-lightning
 lightning_lite
-torch==1.13.1
+# torch==1.13.1
+torch
 torchvision
-MulticoreTSNE
+# MulticoreTSNE
 gitpython
 scipy
 sentence-transformers
