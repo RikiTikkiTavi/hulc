@@ -1,7 +1,7 @@
 # cmake
 # wheel
 numpy>1.2
-hydra-core==1.1.1
+# hydra-core==1.1.1
 hydra-colorlog
 matplotlib
 opencv-python
